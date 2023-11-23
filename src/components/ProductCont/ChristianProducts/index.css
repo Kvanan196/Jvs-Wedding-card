@@ -1,0 +1,29 @@
+.head-filt{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+
+}
+.filter-cont{
+    display: flex;
+    flex-direction: column;
+
+}
+.items-cont{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    flex-wrap: wrap;   
+    padding: 60px; 
+}
+.product-img {
+    width: 300px;
+    height: 300px;
+    
+}
+.product-item-cont {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}

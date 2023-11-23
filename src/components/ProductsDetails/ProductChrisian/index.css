@@ -1,0 +1,21 @@
+
+.background {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+.order-container{
+    display: flex;
+    flex-direction: row;
+}
+
+.button-order {
+    height: 45px;
+    width: 165px;
+    background-color: #F20F0F;
+    border-radius: 10px;
+    color: white;
+    margin-left: 20px;
+    border-width: 0px;
+}

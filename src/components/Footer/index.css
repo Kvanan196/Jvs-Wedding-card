@@ -1,0 +1,20 @@
+.footer{
+    background-color: #00538EDE;
+    height: 337px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+  
+    
+}
+.foot-add-cont{
+    display: flex;
+    flex-direction: column;
+    color: #FFF;
+}
+.foot-text{
+    color: #FFF;
+    font-size: 15px;
+    
+}
